@@ -1,6 +1,7 @@
 #include "mainwindow.h"
 #include <QApplication>
 #define HOST imap.mail.ru
+#include <QCoreApplication>
 
 int main(int argc, char *argv[])
 {
